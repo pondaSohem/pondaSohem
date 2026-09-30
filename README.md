@@ -8,7 +8,7 @@ I am quite new to this so don't really have a tech stack.
 But I am quite fluent in Python with the TKinter Library!
 Currently learning Java and Lua in my free time.
 
-🔭 I’m currently working on a calculator app using the Lua's LÖVE (Love2D) Framework which uses the Reverse-Polish Notation.
+🔭 I’m currently working on a 3D FNAF FanGame on Godot
 
 🤔 I’m looking for help with Java ... (anything with Java tbh)
 
